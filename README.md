@@ -140,6 +140,7 @@ Some of the visualizations include:
 - Pairplot to explore relationships between numerical features.
 - Family type vs. survival visualization.
 - Correlation heatmap to examine relationships between features.
+- 
   <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b17afd7a-571a-4612-8154-3d923b430f15" />
   <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/1d2cbf18-b5ad-413d-acdd-6287e49d6e8b" />
 
