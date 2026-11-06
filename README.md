@@ -126,6 +126,21 @@ The project investigates the following questions:
 7. Did family size have a relationship with passenger survival?
 8. What patterns and outliers can be identified in the dataset?
 
+## 📈 Visualizations
+
+The project uses Matplotlib and Seaborn to explore the Titanic dataset through different visualizations.
+
+Some of the visualizations include:
+
+- Count plots for survival, passenger class, gender, and embarkation port.
+- Histograms and KDE plots for Age and Fare distributions.
+- Box plots to examine data distributions and potential outliers.
+- Survival comparisons across passenger class, gender, and embarkation port.
+- Age and Fare distribution comparisons between survivors and non-survivors.
+- Pairplot to explore relationships between numerical features.
+- Family type vs. survival visualization.
+- Correlation heatmap to examine relationships between features.
+
 ## 💡 Conclusion
 
 This project demonstrates the process of performing Exploratory Data Analysis on a real-world dataset.
